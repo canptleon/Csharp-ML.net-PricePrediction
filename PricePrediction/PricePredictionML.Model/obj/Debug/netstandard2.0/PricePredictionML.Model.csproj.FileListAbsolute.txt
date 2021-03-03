@@ -1,0 +1,10 @@
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\bin\Debug\netstandard2.0\PricePredictionML.Model.deps.json
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\bin\Debug\netstandard2.0\PricePredictionML.Model.dll
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\bin\Debug\netstandard2.0\PricePredictionML.Model.pdb
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\obj\Debug\netstandard2.0\PricePredictionML.Model.csprojAssemblyReference.cache
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\obj\Debug\netstandard2.0\PricePredictionML.Model.AssemblyInfoInputs.cache
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\obj\Debug\netstandard2.0\PricePredictionML.Model.AssemblyInfo.cs
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\obj\Debug\netstandard2.0\PricePredictionML.Model.csproj.CoreCompileInputs.cache
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\obj\Debug\netstandard2.0\PricePredictionML.Model.dll
+C:\Users\ardak\source\repos\PricePrediction\PricePredictionML.Model\obj\Debug\netstandard2.0\PricePredictionML.Model.pdb

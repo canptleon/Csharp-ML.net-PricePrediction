@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PricePrediction", "PricePrediction\PricePrediction.csproj", "{3C08A83C-C017-4D93-A950-21EB6A130290}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PricePredictionML.Model", "PricePredictionML.Model\PricePredictionML.Model.csproj", "{C11F13D0-8B9A-4A57-9DD3-0DC3F535FCE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PricePredictionML.ConsoleApp", "PricePredictionML.ConsoleApp\PricePredictionML.ConsoleApp.csproj", "{233C09E6-D4A6-4F85-A6DC-6D21BEABF6CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{DE465183-958D-43A3-8996-8EDFE5253DFC}"
+	ProjectSection(SolutionItems) = preProject
+		..\Machine Learning\ML Data\taxifaretest.csv = ..\Machine Learning\ML Data\taxifaretest.csv
+		..\Machine Learning\ML Data\taxifaretrain.csv = ..\Machine Learning\ML Data\taxifaretrain.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C08A83C-C017-4D93-A950-21EB6A130290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C08A83C-C017-4D93-A950-21EB6A130290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C08A83C-C017-4D93-A950-21EB6A130290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C08A83C-C017-4D93-A950-21EB6A130290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11F13D0-8B9A-4A57-9DD3-0DC3F535FCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11F13D0-8B9A-4A57-9DD3-0DC3F535FCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11F13D0-8B9A-4A57-9DD3-0DC3F535FCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11F13D0-8B9A-4A57-9DD3-0DC3F535FCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233C09E6-D4A6-4F85-A6DC-6D21BEABF6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233C09E6-D4A6-4F85-A6DC-6D21BEABF6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233C09E6-D4A6-4F85-A6DC-6D21BEABF6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233C09E6-D4A6-4F85-A6DC-6D21BEABF6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE3EFF60-6C69-4BA7-8A06-CCA5D609ABFD}
+	EndGlobalSection
+EndGlobal
